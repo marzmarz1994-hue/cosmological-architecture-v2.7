@@ -31,7 +31,13 @@ Unlike standard philosophical models, v2.7 is empirically falsifiable. The 1.0 h
 * `AI_Red_Team_Payload_Architecture_v2.7.txt` - The exact prompt parameters used to force LLMs to audit the system neutrally.
 * `Changelog_Universal_Architecture.txt` - Semantic versioning log detailing the AI-driven hotfixes.
 
-## Red Team Telemetry
-Independent audits by Claude and ChatGPT confirmed that under v2.7 parameters, the Base Metal OS (Side A) resolves classic logical paradoxes (Problem of Evil, Infinite Regress) into load-bearing security features, achieving high logical consistency. 
+### Red Team Telemetry (AI Audits)
+To ensure maximum objectivity, this architecture was subjected to hostile penetration testing by two leading LLMs (Claude 3.5 and GPT-4o). They were instructed to evaluate the framework strictly on epistemological rigor and logical consistency.
+
+Their unedited vulnerability reports are included in this repository:
+* `Red_Team_Report_Claude_v2.7.txt` - Identifies the "Deist Leap" (the gap between a Conscious Compiler and a specific Trinitarian Admin) as the primary unresolved vulnerability.
+* `Red_Team_Report_ChatGPT_v2.7.txt` - Awards a 9.0/10 for Internal Consistency but flags the Falsifiability Kill-Switch as "asymmetric" (it can mathematically fail, but cannot be mathematically confirmed). 
+
+*Note: These known vulnerabilities are considered "working as intended" boundaries where computational logic ends and historical/experiential trust is required to proceed.*
 
 *Pull requests and logic decompilations are welcome. If you find a memory leak, submit an issue.*
