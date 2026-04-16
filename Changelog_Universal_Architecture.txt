@@ -18,7 +18,7 @@ Format: Keep a Changelog standard (Semantic Versioning)
 ### Changed
 - Removed mandatory Boolean acceptance for axioms.
 
-[2.5.0] -  Previous Build
+[2.5.0] - Previous Build
 ### Added
 - Cross-Network Compatibility Scan (Alternative OS Models).
 - Mapped 5 alternative network configurations to the Base Metal OS (Side A).
