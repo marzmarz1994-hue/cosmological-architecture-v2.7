@@ -1,0 +1,31 @@
+CHANGELOG: Universal IT Architecture Model
+Format: Keep a Changelog standard (Semantic Versioning)
+
+[2.7.0] - 2026-04-15
+### Added
+- Information Theory Protocol: Addressed the "Host != Conscious Agent" vulnerability by applying specified complexity (DNA/Physics) to prove the necessity of a Conscious Compiler over a Random Number Generator.
+- Falsifiability Kill-Switch: Hardcoded the 1 Corinthians 15:14 failure condition. The system is now empirically falsifiable (finding the biological remains of the Avatar collapses the architecture).
+### Changed
+- Deprecated "Zero-Knowledge Proof" terminology for Axiom 4 after AI Red Team flagged it as a cryptographic misnomer. Replaced with "User-End Runtime Verification" to accurately reflect subjective testing coupled with historical falsifiability.
+- Scrubbed `[SYSTEM DIRECTIVE]` prompt injection headers from the Red Team Payload to ensure compliance with Anthropic/OpenAI safety protocols and guarantee a clean, unforced audit.
+- Refactored Buddhist VM Audit: Removed "software suicide" mischaracterization. Correctly identified Nirvana as the cessation of suffering/craving (Hardware Decoupling), clarifying the contrast with Side A's 4K Hardware Upgrade.
+- Refactored Islamic VM Audit: Acknowledged Tawbah (Mercy) protocols to remove Side A bias. 
+
+[2.6.0] - Previous Build
+### Added
+- Procedural Generation Steelman (Side B).
+- Neutral Sandbox Audit framework.
+### Changed
+- Removed mandatory Boolean acceptance for axioms.
+
+[2.5.0] - Previous Build
+### Added
+- Cross-Network Compatibility Scan (VM Stress Tests).
+
+[2.4.0] - Previous Build
+### Added
+- Legacy Hardware Audit (Fossil Record / Biological NPCs).
+
+[1.0.0] - Initial Deployment
+### Added
+- Base Hardware Diagnostic and IT Sandbox metaphor.
